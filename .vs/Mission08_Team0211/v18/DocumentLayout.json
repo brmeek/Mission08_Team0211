@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meekb\\OneDrive\\Documents\\Winter 26-Surface-2\\IS 415\\Mission08_Team0211\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6614C8C5-9C43-4E6E-7059-8E84A96A04A3}|Mission08_Team0211.csproj|c:\\users\\meekb\\onedrive\\documents\\winter 26-surface-2\\is 415\\mission08_team0211\\views\\home\\quadrants.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6614C8C5-9C43-4E6E-7059-8E84A96A04A3}|Mission08_Team0211.csproj|solutionrelative:views\\home\\quadrants.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quadrants.cshtml",
+              "DocumentMoniker": "C:\\Users\\meekb\\OneDrive\\Documents\\Winter 26-Surface-2\\IS 415\\Mission08_Team0211\\Views\\Home\\Quadrants.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Quadrants.cshtml",
+              "ToolTip": "C:\\Users\\meekb\\OneDrive\\Documents\\Winter 26-Surface-2\\IS 415\\Mission08_Team0211\\Views\\Home\\Quadrants.cshtml",
+              "RelativeToolTip": "Views\\Home\\Quadrants.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T22:31:24.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
